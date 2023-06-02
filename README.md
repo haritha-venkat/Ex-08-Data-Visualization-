@@ -114,61 +114,61 @@ plt.show()
 ## 3.Boxplot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/cb520522-6b03-4abd-a98a-52f4f5c5de8a)
 
-Violin Plot
+## Violin Plot
 
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/1de30b8b-5e2d-4953-a464-bab138d6c947)
 
-5.Barplot
+## 5.Barplot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/d25b45fa-9138-47b0-af5b-f50c0d98d69d)
 
 
-pointplot
+## pointplot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/fe41c32b-ea43-449e-8116-eade20a09cda)
 
 
-Count plot
+## Count plot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/ffa62019-c4c4-4929-a37f-6539bc52497e)
 
 
-Histogram
+## Histogram
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/a8f5e716-1167-4e17-a555-49a3d7837997)
 
-DE plot
+## DE plot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/ff5460da-6413-4268-b1f1-02ab208af0ab)
 
 
-Data Visualization Using Matplotlib:
-Plot
+## Data Visualization Using Matplotlib:
+## Plot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/d9be71f6-5166-48b1-9353-1cb7ec7b197a)
 
 
-Heatmap
+## Heatmap
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/6aa81c68-892b-4595-a03a-7419e97e92f3)
 
 
-Piechart
+## Piechart
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/5132206e-b265-425e-a0d9-fa434c97929e)
 
 
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/fee657d5-877a-4278-a9c2-239961bf0c71)
 
 
-Histogram
+## Histogram
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/e40a636a-9193-4128-8a41-e92a31d24720)
 
 
-Bargraph
+## Bargraph
 
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/57551e7a-bf45-42e9-a198-68c2e4a0b303)
 
-Scatterplot
+## Scatterplot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/3017c212-8ac4-4269-82f8-a631862178a0)
 
 
-Boxplot
+## Boxplot
 ![image](https://github.com/haritha-venkat/Ex-08-Data-Visualization-/assets/121285701/eece1431-7778-40ce-a816-6d6bccf1c5b1)
 
 
-RESULT
+## RESULT
 
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file
